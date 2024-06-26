@@ -5,24 +5,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Seif+Hany;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
-<hr />
 
 <h3 style="display:flex; align-items:center; gap:16px;">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt1NzVscWRjcmw4eGtpZWhuMHc1OTUyMjg5b2htcWlydmMzY3VpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" alt="gif"  height="45px"> About Me:
 </h3>
-
-<h1 align="center">Hi 👋, I'm <a href="https://seifhany.com/" target="blank">Seif</a></h1>
 <p align="center">
-  Computer Engineer & Software Developer from Egypt
-  <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Computer Engineering Bachelor's degree in Cairo University
-  <br>
-  💻 I love Writing code, 🧠 Creating innovative ideas, Solving real world problems 😊
-  <br>
-  📚 I’m currently focusing on Software Engineering
-  <br>
-  📫 How to reach me 👇
+  <h1 align="center" style="font-size:32px;">Hi 👋, I'm <a href="https://seifhany.com/" target="blank">Seif</a></h1>
+  <p align="center">
+    Computer Engineer & Software Developer from Egypt
+    <br>
+    <br>
+    👨‍🎓 I'm currently studying for a Computer Engineering Bachelor's degree in Cairo University
+    <br>
+    💻 I love Writing code, 🧠 Creating innovative ideas, Solving real world problems 😊
+    <br>
+    📚 I’m currently focusing on Software Engineering
+    <br>
+    📫 How to reach me 👇
+  </p>
 </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/seifhany-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:seifhany.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
