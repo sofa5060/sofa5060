@@ -7,7 +7,7 @@
 </h1>
 
 <h3 style="display:flex; align-items:center; gap:16px;">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt1NzVscWRjcmw4eGtpZWhuMHc1OTUyMjg5b2htcWlydmMzY3VpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" alt="gif"  height="45px"> About Me:
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt1NzVscWRjcmw4eGtpZWhuMHc1OTUyMjg5b2htcWlydmMzY3VpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" alt="gif"  height="45px" width="45px"> About Me:
 </h3>
 <p align="center">
   <h1 align="center" style="font-size:32px;">Hi 👋, I'm <a href="https://seifhany.com/" target="blank">Seif</a></h1>
